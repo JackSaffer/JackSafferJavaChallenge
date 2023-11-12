@@ -1,5 +1,4 @@
-import java.lang.Math;
-public class jackSaffer {
+public class question1 {
     public static void main (String[] args){
         //The code below creates a min and max value for the die rolls
         int min = 1;
